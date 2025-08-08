@@ -3,7 +3,9 @@
 Este projeto é um exemplo básico de Machine Learning para detecção de câncer de mama.
 O objetivo é praticar análise de dados, visualização e criação de modelos preditivos utilizando Python.
 
-O projeto foi feito para aprendizado na área de análise de dados e machine learning e registrado no github para marcar meu progesso.
+Esse projeto foi feito para aprendizado na área de análise de dados e Machine Learning e registrado no GitHub para marcar meu progresso.
+
+O score de acurácia apontado pelo modelo foi de 97%.
 
 ## Dados
 - Fonte: [Kaggle – Breast Cancer Dataset](https://www.kaggle.com/datasets/wasiqaliyasir/breast-cancer-dataset)
